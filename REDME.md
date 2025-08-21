@@ -116,4 +116,4 @@ temp/ Placeholder for temporary data (keep clean with .gitkeep)
 
 ## Verify files on GitHub to ensure clean version control practices.
 
-##
+## ---------------------------------------------------- How to connect database (part2) -----------------------------------------
