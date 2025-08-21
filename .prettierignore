@@ -1,0 +1,51 @@
+# VS Code settings
+.vscode
+*.code-workspace
+
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist
+build
+coverage
+.out
+.next
+.cache
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# Public / static files
+public/*
+static/*
+uploads/*
+storage/*
+
+# Database
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prettier itself
+.prettierignore
+
+# Other configs not needed
+swagger.json
+swagger.yaml
+
+# Ignore compiled JS if using TS
+*.tsbuildinfo
+
+# Ignore docker and container stuff
+docker-compose.override.yml
