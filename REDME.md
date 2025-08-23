@@ -757,6 +757,8 @@ Controller (getMyProfile)
 
 \*/
 
+## --------------------------------------- file uploader ----------------------------------------
+
 ## ----------------------------------------- aggrigation peginate --------------------------------------------------
 
 It’s a pagination plugin for Mongoose aggregation queries. :
